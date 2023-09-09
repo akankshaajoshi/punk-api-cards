@@ -1,8 +1,8 @@
-## Get a beer! 
+# Get a beer! 
 
-# Punk API cards - Fetched data from API to create a website where users can login without signup (Fake authentication using Context API) and search for any specific beer.
+## Punk API cards - Fetched data from API to create a website where users can login without signup (Fake authentication using Context API) and search for any specific beer.
 
-# Check it out at: https://punkapicards.netlify.app/beers
+## Check it out at: https://punkapicards.netlify.app/
 
 Some glimpses: 
 Login page - 
