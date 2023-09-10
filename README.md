@@ -4,7 +4,7 @@
 
 ## Check it out at: https://punkapicards.netlify.app/
 
-Some glimpses:
+# Some glimpses:
 
 ## Login page - 
 ![login](https://github.com/akankshaajoshi/punk-api-cards/assets/91690660/7a5d3bb6-7980-4ef7-b674-8b410c6c924b)
