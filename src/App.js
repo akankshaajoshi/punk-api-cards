@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
-import { AuthContext } from "./AuthContext";
-import Beers from "./Beers.js";
-import Login from "./Login.js";
+import { AuthContext } from "./contexts/AuthContext";
+import Beers from "./pages/Beers.js";
+import Login from "./pages/Login.js";
 import {
   BrowserRouter as Router,
   Routes,
